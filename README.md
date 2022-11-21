@@ -1,1 +1,1 @@
-# Email-subscription-form-in-php
+# Email-subscription-form-in-php/ajax/mysql
